@@ -1,0 +1,13 @@
+body{
+    background: #fff;
+}
+.titre
+{
+    color:blue;
+    padding-left: 300px;
+}
+.resultat{
+    color:red;
+    font-size:30px;
+    padding-left: 300px;
+}
